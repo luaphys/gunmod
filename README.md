@@ -1,4 +1,4 @@
-![GDMod logo](https://github.com/arthuro555/gdmod/raw/master/logo.png)
+
 
 # GDMod [![Check code style and typing](https://github.com/arthuro555/gdmod/actions/workflows/code-style-and-typing.yml/badge.svg)](https://github.com/arthuro555/gdmod/actions/workflows/code-style-and-typing.yml)
 
