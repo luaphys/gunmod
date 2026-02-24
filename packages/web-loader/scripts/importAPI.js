@@ -13,7 +13,7 @@ exports.importAPI = async function () {
     require.resolve("@gdmod/api/dist/gdapi.min.cjs"),
     "./extension/api/gdapi.js"
   );
-  console.log("✅ Successfully imported the API!");
+  console.log("✅ Successfully imported the gunAPI!");
 };
 
 if (require.main === module) module.exports.importAPI();
